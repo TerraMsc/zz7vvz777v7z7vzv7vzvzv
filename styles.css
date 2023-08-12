@@ -1,11 +1,11 @@
 @font-face {
     font-family: "pro";
-    src: url("/font/SFProDisplay-Regular.otf");
+    src: url("font/SFProDisplay-Regular.otf");
 }
 
 @font-face {
     font-family: "pro-medium";
-    src: url("/font/SFProDisplay-Medium.otf");
+    src: url("font/SFProDisplay-Medium.otf");
 }
 
 body {
